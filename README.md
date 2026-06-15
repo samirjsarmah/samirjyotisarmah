@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9,4F46E5,7C3AED&height=200&section=header&text=Samir%20Jyoti%20Sarmah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Tomorrow's%20Web%2C%20Today&descAlignY=58&descAlign=50" width="100%" />
 
 <br/>
